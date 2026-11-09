@@ -1,0 +1,33 @@
+1. Geçmişte Kim Ne Kadar Hibe Aldı? (İstihbarat)
+Burada amaç rakipleri ve trendleri görmek. Fonların nereye aktığını takip etmek için şu siteleri kullanıyoruz:
+
+RootData.com (Sektörün Veritabanı):
+
+Nasıl kullanılır: Arama çubuğuna direkt ilgilendiğimiz ağları yaz (örneğin "Monad", "Sei", "Cartesi" veya "Arbitrum").
+
+Filtre Taktiği: Profillerine girdiğinde "Portfolio" veya "Ecosystem" sekmelerine tıkla. Sektör filtresinden "Infrastructure", "Developer Tools" veya "DeFi" seç.
+
+Neye dikkat edeceksin: Senin yapacağın o "Trading Engine" veya algoritmik eşleştirme motorlarına benzer projelere bak. Açıklamalarında "Orderbook", "Matching Engine", "Simulation" geçen projelerin ne kadar tohum yatırımı veya hibe aldığına odaklan.
+
+Vakıfların Kendi Forumları ve GitHub Repoları:
+
+Büyük ağlar (örneğin Arbitrum veya Optimism) şeffaflık gereği kime hibe verdiklerini forumlarında (örneğin forum.arbitrum.foundation) açık açık tartışırlar.
+
+Burada "Approved Grants" (Onaylanmış Hibeler) başlıklarını okuyarak, projelerin hangi teknik dökümanlarla başvurduğunu ve jürinin hangi özellikleri beğenip para verdiğini birebir kopyalayabilirsin.
+
+2. Şu An Aktif Hangi Hibe/Hackathon Programları Var?
+Fikri hazırladıktan sonra kapısını çalacağımız yerler buralar:
+
+DoraHacks.io:
+
+Girip "Grants" sekmesine tıkladığında şu an aktif olan tüm havuzları görürsün. Sadece büyük ağlar değil, yeni çıkan ve "bizim ağımızda kod yazın lütfen" diye para dağıtan onlarca yeni proje burada listelenir.
+
+Devpost.com:
+
+Arama kısmına "Web3", "DeFi" veya "Trading" yaz. Çoğu ağ önce online bir Hackathon düzenler, burada dereceye giren (veya çalışan güzel bir MVP sunan) projelere direkt "Hibe programımıza geçin" teklifi yapar. İlk can suyunu ve dikkatleri çekmek için harika bir yerdir.
+
+Vakıfların Kendi "Ecosystem Fund" Sayfaları:
+
+Solana Grants: Performans ve hıza taptıkları için C++ veya Rust ile yazılmış, saniyede binlerce emri eşleştirebilen motorlara her zaman bütçeleri vardır.
+
+Cartesi Grants: Linux ortamını blockchain'e getirdikleri için, dışarıdaki ağır algoritmik kodları (senin Java/C++ tabanlı geçmiş projelerin gibi) zincire taşıyan işlere doğrudan hibe verirler.

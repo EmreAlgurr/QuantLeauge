@@ -1,0 +1,14 @@
+# Hardhat files
+artifacts/
+cache/
+typechain/
+typechain-types/
+coverage/
+coverage.json
+hardhat-network-logs.json
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
