@@ -89,3 +89,4 @@ class PairsTradingStrategy:
         df["position"] = positions
         df["position_shifted"] = df["position"].shift(1).fillna(0) # Next-bar execution to avoid lookahead
         return df
+

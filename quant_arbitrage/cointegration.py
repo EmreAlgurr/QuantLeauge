@@ -98,3 +98,4 @@ def test_cointegration(series_y: pd.Series, series_x: pd.Series) -> dict:
         "half_life_days": hl,
         "hurst_exponent": hurst
     }
+

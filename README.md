@@ -125,3 +125,4 @@ python run_stat_arb.py --ticker_y V --ticker_x MA --start 2014-01-01 --end 2024-
 ```bash
 python scan_pairs.py
 ```
+

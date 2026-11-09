@@ -26,3 +26,4 @@ for y, x in pairs:
         print(f"{y}/{x} -> Cointegrated: {is_c} (p={p_val:.4f}, HL={hl:.1f}d) | Return: {tot:+.1f}% | Sharpe: {sh} | WinRate: {wr}%")
     except Exception as e:
         print(f"{y}/{x} error: {e}")
+

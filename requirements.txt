@@ -4,3 +4,4 @@ scipy>=1.10.0
 statsmodels>=0.14.0
 yfinance>=0.2.30
 matplotlib>=3.7.0
+

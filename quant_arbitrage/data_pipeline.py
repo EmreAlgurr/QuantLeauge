@@ -77,3 +77,4 @@ def generate_synthetic_cointegrated_pair(
     series_y = pd.Series(price_y, index=dates, name="Asset_Y")
     series_x = pd.Series(price_x, index=dates, name="Asset_X")
     return series_y, series_x
+

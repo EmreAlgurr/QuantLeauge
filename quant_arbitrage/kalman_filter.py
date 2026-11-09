@@ -119,3 +119,4 @@ class KalmanFilterHedgeRatio:
         result["beta"] = betas
         result["spread"] = spreads
         return result
+
